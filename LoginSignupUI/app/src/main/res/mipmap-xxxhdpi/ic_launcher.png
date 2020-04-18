@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a96dfb50-98f9-4524-a0c4-c0c0361cb7d6" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="MyPhone8" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/05_FuncionesBasicasLibreriaMatematica.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" />
+              <folding>
+                <element signature="e#0#134#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/08_MayorDeDosNumeros.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/09_MayorDeTresNumeros.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#118#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/10_DesgloseDeBilletes.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/11_BonoDelEmpleadoPorHijo.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/12_NumeroIntermedio.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/13_TarifaTelefonica.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/14_Triangulos.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#114#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/15_EjercicioPropuestoSaludar.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#114#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/02_InvertirNroDeTresCifras.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Script" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FormatoDecimal</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>objFormtDecimal</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/verificar_email.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/menunavegacion_001/VerificarEmail.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/menunavegacion_001/Prueba001.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/03_OperacionesBásicas.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/02_InvertirNroDeTresCifras.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/01_InvertirNroDeDosCifras.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/SalidaFormatoLocalidad.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/06_SalidaFormatoLocalidad.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/04_CompraEnRestaurant.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/05_FuncionesBasicasLibreriaMatematica.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/06_FormatosDeSalida.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/07_EjercicioEcuacion.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/08_MayorDeDosNumeros.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/09_MayorDeTresNumeros.kt" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/10_DesgloseDeBilletes.kts" />
+        <option value="$PROJECT_DIR$/app/src/main/java/10_DesgloseDeBilletes.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/11_BonoDelEmpleadoPorHijo.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/12_NumeroInterno.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/12_NumeroIntermedio.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/13_TarifaTelefonica.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/14_Triangulos.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/15_EjercicioPropuestoSaludar.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1910" />
+    <option name="width" value="980" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectLevelVcsManag
